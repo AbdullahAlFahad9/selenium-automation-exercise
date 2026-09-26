@@ -1,0 +1,4 @@
+com\automationexercise\pages\LoginPage.class
+com\automationexercise\pages\HomePage.class
+com\automationexercise\tests\LoginTest.class
+com\automationexercise\utils\DriverManager.class
